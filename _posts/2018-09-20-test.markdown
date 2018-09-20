@@ -5,3 +5,5 @@ date:   2018-09-20 13:48:39 -0700
 categories: jekyll test
 ---
 This is a little test run of what a post will eventually look like! Maybe we'll get some images in here soon.
+
+![alternate](/assets/img/pancakes.png)
