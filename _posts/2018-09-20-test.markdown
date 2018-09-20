@@ -1,9 +1,10 @@
 ---
 layout: post
-title:  "Post Test"
+title:  "Artwork"
 date:   2018-09-20 13:48:39 -0700
 categories: jekyll test
 ---
-This is a little test run of what a post will eventually look like! Maybe we'll get some images in here soon.
+Space-oriented artwork that I created after watching "Aliens" with Sigourney Weaver.
 
-![alternate](/assets/img/pancakes.png)
+![alternate](/assets/img/SpaceMech.png)
+![alternate](/assets/img/FuturisticMarine.png)
