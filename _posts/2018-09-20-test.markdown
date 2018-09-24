@@ -1,9 +1,14 @@
 ---
 layout: post
-title:  "Artwork"
+title:  Artwork
+summary: A digital drawing of a marine from space.
 date:   2018-09-20 13:48:39 -0700
 categories: jekyll test
+image: assets/img/FuturisticMarine.jpg
 ---
+
+
+
 Space-oriented artwork that I created after watching "Aliens" with Sigourney Weaver.
 
 ![alternate](/assets/img/SpaceMech.png)
