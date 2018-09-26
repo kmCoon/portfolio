@@ -1,15 +1,11 @@
 ---
 layout: post
-title:  Artwork
-summary: A digital drawing of a marine from space.
+title:  Test
 date:   2018-09-20 13:48:39 -0700
 categories: jekyll test
-image: assets/img/FuturisticMarine.jpg
+image: assets/img/pancakes.png
 ---
 
+Isn't breakfast just wonderful?
 
-
-Space-oriented artwork that I created after watching "Aliens" with Sigourney Weaver.
-
-![alternate](/assets/img/SpaceMech.png)
-![alternate](/assets/img/FuturisticMarine.png)
+![alternate](assets/img/pancakes.png)
